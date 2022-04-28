@@ -1,0 +1,21 @@
+.delt{
+  height: 100px;
+  width: 100px;
+}
+.delt>img{
+  height: 100%;
+  width: 100%;
+  border-radius: 200px;
+}
+.ppl{
+  display: flex;
+  justify-content: center;
+}
+.dep{
+  width: 100%;
+  height: 600px;
+}
+.dep>img{
+  width: 100%;
+  height: 100%;
+}

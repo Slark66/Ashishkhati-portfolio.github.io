@@ -1,0 +1,17 @@
+.door{
+  background-color: antiquewhite;
+  width: 300PX;
+  margin-left: 30px;
+}
+.door>ul{
+  list-style: none;
+}
+.main{
+  display: flex;
+}
+.low{
+  margin-left: 2%;
+}
+body{
+  background-color: rgb(162, 211, 211);
+}

@@ -1,0 +1,52 @@
+*{
+  color: rgb(17, 16, 16);
+}
+.amin {
+  display: flex;
+  background-color: rgb(190, 189, 77);
+  margin-bottom: 10px;
+  margin-top: 25px;
+}
+.holder {
+  height: 250px;
+  width: 22.5%;
+  margin: 1%;
+}
+.holder>img {
+  height: 100%;
+  width: 100%;
+}
+.front {
+  border: 2px solid rgb(0, 0, 0);
+}
+.cbody {
+  display: flex;
+}
+.up,.left {
+  border: 2px solid rgb(238, 123, 123);
+  margin: 5px;
+  background-color: rgb(203, 224, 223);
+}
+.left,.right {
+  height: 95%;
+}
+.backend,.design {
+  border: 2px solid rgb(0, 0, 0);
+  margin: 5px;
+}
+.contain {
+  display: flex;
+  width: 80%;
+  height: 250px;
+  margin-top: 10px;
+  margin-bottom: 20px;
+}
+.front,.backend,.design {
+  height: 100%;
+  width: 31%;
+  margin: 1%;
+  background-color: rgb(98, 179, 233);
+}
+a{
+  text-decoration: none;
+}

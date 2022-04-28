@@ -1,0 +1,32 @@
+.whole{
+  display: grid;
+  grid-template-columns: 1fr 1fr 2fr;
+  grid-auto-rows: 250px;
+  column-gap: 1%;
+  row-gap: 1%;
+}
+.call{
+  border: 1px solid rgb(231, 161, 161);
+}
+.call1{
+  border: 1px solid rgb(235, 82, 82);
+  background-color: bisque;
+}
+.call2{
+  border: 1px solid rgb(238, 84, 13);
+  background-color: bisque;
+}
+.call3{
+  border: 1px solid rgb(235, 82, 82);
+  background-color: bisque;
+}
+.call4{
+  border: 1px solid rgb(235, 82, 82);
+  background-color: bisque;
+}
+.er{
+  display: grid;
+  grid-template-columns: 1fr 1fr ;
+  column-gap: 1%;
+  row-gap: 2%;
+}

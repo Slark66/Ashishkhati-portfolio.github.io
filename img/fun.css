@@ -1,0 +1,70 @@
+.P1{
+  height: 20%;
+  width: 300px;
+}
+.P1>img{
+  height: 300px;
+  width: 250px;
+  margin-left: 6px;
+}
+.P2{
+  height: 20%;
+  width: 300px;
+}
+.P2>img{
+  height: 250px;
+  width: 300px;
+  margin-left: -8px;
+  margin-top: 16%;
+}
+.P3{
+  height: 20%;
+  width: 300px;
+}
+.P3>img{
+  height: 200px;
+  width: 250px;
+  margin-left: 18px;
+  margin-top: 33%;
+ 
+}
+.P4{
+  height: 20%;
+  width: 300px;
+}
+.P4>img{
+  height: 200px;
+  width: 250px;
+  margin-left: 6px;
+  margin-top: 36%;
+}
+.P5{
+  height: 20%;
+  width: 300px;
+}
+.P5>img{
+  height: 250px;
+  width: 300px;
+  margin-top: 20%;
+  margin-left: -10px;
+}
+.P6{
+  height: 10%;
+  width: 300px;
+}
+.P6>img{
+  height: 300px;
+  width: 250px;
+  margin-left: 20px;
+  margin-top: 3%;
+}
+.kill{
+  display: flex;
+  margin-bottom: 10px;
+  margin-top: 15px;
+  background-color: rgb(252, 212, 167);
+}
+.pill{
+  display: flex;
+  background-color: rgb(230, 204, 119);
+}

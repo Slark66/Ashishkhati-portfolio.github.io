@@ -1,0 +1,50 @@
+.navbarul{
+  justify-content: space-evenly;
+  display: flex;
+  list-style: none;
+}
+.nava{
+  text-decoration: none;
+  color: black;
+}
+.content{
+  height: 50%;
+  width: 50px;
+}
+.pika{
+  height: 400px;
+  width: 500px;
+  border-radius: 200px;
+  margin-top: 3%;
+}
+.prop{
+  display: flex;
+  align-items: center;
+  list-style: none; 
+}
+.info{
+  border: 2px solid black;
+  margin-left: 25px;
+  background-color: beige;
+}
+.info>ul {
+  list-style: none;
+}
+.info>ul>li>a>img{
+  height: 40px;
+  width: 40px;
+}
+.blive>ul{
+  list-style: none;
+}
+.blive>ul>li>a{
+text-decoration: none;
+color: black;
+}
+.base{
+  display: flex;
+  justify-content: space-evenly;
+}
+h4{
+  text-decoration: underline;
+}
